@@ -1,0 +1,10 @@
+<br /><br />
+<div id="view-content">
+<?php 
+if($this->identity){
+	echo "你好！".$this->identity->username."欢迎登录";
+}else{
+	echo "<a href='/login'>请登录</a>";
+}	
+?>
+</div>

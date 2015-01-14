@@ -1,0 +1,66 @@
+[Fri Aug 29 11:04:34 2014] [error] [client ::1] PHP Notice:  Undefined index: HTTP_REFERER in /Users/xuweiming/mysite/a.php on line 3
+[Fri Aug 29 11:05:35 2014] [error] [client ::1] PHP Notice:  Undefined index: HTTP_REFERER in /Users/xuweiming/mysite/a.php on line 2
+[Mon Sep 01 11:41:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/favicon.ico
+[Mon Sep 01 13:19:04 2014] [error] [client 127.0.0.1] File does not exist: /Users/xuweiming/mysite/favicon.ico
+[Tue Sep 02 13:59:45 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/favicon.ico
+[Tue Sep 02 14:01:18 2014] [error] [client ::1] PHP Fatal error:  Call to undefined method Sys_member_m::updatePasswd() in /Users/xuweiming/mysite/xmt3/admin/app/controllers/sys_change_passwd.php on line 14, referer: http://localhost/xmt3/admin/sys_change_passwd.html
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/themes/default/web.css
+[Tue Sep 02 14:01:53 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/
+[Tue Sep 02 14:02:12 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:02:14 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:02:14 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:02:14 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:02:41 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:02:48 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Tue Sep 02 14:03:15 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2
+[Tue Sep 02 14:03:19 2014] [error] [client ::1] PHP Notice:  Undefined index: api in /Users/xuweiming/mysite/webmis/install/index.php on line 2
+[Tue Sep 02 14:03:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Tue Sep 02 14:03:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Tue Sep 02 14:03:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Tue Sep 02 14:03:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Tue Sep 02 14:03:33 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Tue Sep 02 14:03:33 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/install/install.css
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/themes/default/web.css
+[Wed Sep 03 15:10:34 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/upload, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:37 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/
+[Wed Sep 03 15:11:45 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/webmis-4.2, referer: http://localhost/webmis/admin/
+[Wed Sep 03 15:12:52 2014] [error] [client ::1] PHP Fatal error:  Call to undefined method Sys_member_m::updatePasswd() in /Users/xuweiming/mysite/xmt3/admin/app/controllers/sys_change_passwd.php on line 14, referer: http://localhost/xmt3/admin/sys_change_passwd.html
+[Wed Sep 03 16:11:15 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/phpmyadmin/pmadb, referer: http://localhost/phpmyadmin/index.php?token=fed7ac1d5817b49a48ade0cc6c628c7a
+[Sat Sep 20 02:37:14 2014] [error] [client 127.0.0.1] Invalid method in request \x03
+[Sat Sep 20 02:37:15 2014] [error] [client 127.0.0.1] Invalid method in request \x03
+[Sat Sep 20 17:13:02 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/favicon.ico
+[Sat Sep 20 17:14:33 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/pm/js/jquery/UI/jquery.min.map, referer: http://localhost/pm/html/
+[Sat Sep 20 18:56:28 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/pm/js/jquery/UI/jquery.min.map, referer: http://localhost/pm/html/
+[Sat Sep 20 19:33:49 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/pm/js/jquery/UI/jquery.min.map, referer: http://localhost/pm/html/
+[Tue Sep 23 15:42:26 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:43:08 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:45:13 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:46:19 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:48:06 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:49:52 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:50:55 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Tue Sep 23 15:52:01 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/abc, referer: http://localhost:8080/eppm/
+[Mon Oct 13 15:14:45 2014] [error] [client ::1] PHP Notice:  Undefined index: HTTP_REFERER in /Users/xuweiming/mysite/a.php on line 2
+[Mon Oct 13 15:14:46 2014] [error] [client ::1] File does not exist: /Users/xuweiming/mysite/favicon.ico
+[Mon Oct 13 15:16:13 2014] [error] [client ::1] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/xuweiming/mysite/a.php on line 2

@@ -1,0 +1,13 @@
+<br /><br />
+<div id="view-content">
+	<p>View script for controller <b>Hc</b> and script/action name <b>index</b></p>
+	客服管理
+	<br/>
+	<?php 
+		if($this->userlist){
+			echo "<ul>";
+			echo $this->partialLoop('partials/row-pages.phtml',$this->userlist);
+			echo "</ul>";
+		}
+	?>
+</div>
